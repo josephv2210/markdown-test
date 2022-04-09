@@ -68,9 +68,11 @@ asta
 <!-- Github markdown -->
 
 * [x] Tarea 1
-* [] Tarea 1
-* [] Tarea 1
+* [ ] Tarea 1
+* [ ] Tarea 1
 * [x] Tarea 1
+
+@josephv_2210 :relaxed: :relaxed:
 
 
 
